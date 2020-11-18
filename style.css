@@ -1,0 +1,17 @@
+body {
+    background-color: cornsilk;
+
+}
+img {
+    height: 250px;
+    width: 350px;
+}
+#vietaKurDesim {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+h4 {
+   text-align: center;
+}
